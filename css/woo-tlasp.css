@@ -1,0 +1,47 @@
+.woo-tlasp .mejs-container  {
+  width: 18px !important;
+  height: 18px !important;
+  background: transparent;
+  display: inline-block;
+}
+.woo-tlasp .mejs-container .mejs-controls  {
+  background: transparent;
+  width: 18px !important;
+  height: 18px !important;
+  opacity: 0.8;
+
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-button button {
+  margin: 2px;
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-button img {
+  width: 15px;
+  height: 15px;
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-time .mejs-currenttime-container {
+  display: none;
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-time .mejs-duration-container {
+  display: none;
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-time {
+  display: none;
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-horizontal-volume-slider {
+  display: none;
+}
+.woo-tlasp .mejs-container .mejs-controls .mejs-volume-button {
+  display: none;
+}
+.woo-tlasp .mejs-container .mejs-time-rail {
+  display: none;
+}
+.woo-tlasp .woo-tlasp-file-name {
+  margin-left: 5px;
+  display: inline-block;
+}
+.woo-tlasp {
+  width: 100%;
+}
+
+
